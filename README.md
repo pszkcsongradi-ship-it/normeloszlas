@@ -1,7 +1,5 @@
 # Normális eloszlás – vizuális gyakorló (magyar változat)
 
-A v7 angol verzió magyar tükörfordítása.
-
 - 4 feladat
 - rögzített koordinátarendszer
 - standard normális kiindulópont
